@@ -1,7 +1,7 @@
 
 # Student Information System
 
-**Student Name:** Cristian M. Neri
+**Student Name:** Cristian M. Neri and Renz Darren M. De Torres
 
 **Course and Section:** BSIT 2/F3
 
